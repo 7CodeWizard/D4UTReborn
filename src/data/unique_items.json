@@ -1,0 +1,690 @@
+[
+    {
+        "name": "Custom Helmet",
+        "type": "Legendary Helmet",
+        "attributes": [],
+        "effect": "This is a test item used for max level boosts.",
+        "image": "/assets/custom_gear.png"
+    },
+    {
+        "name": "Tuskhelm of Joritz the Mighty",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Damage while Berserking is Active",
+            "Maximum Fury",
+            "Attack Speed",
+            "Aggressive Resistance"
+        ],
+        "effect": "When you gain Berserking while already Berserk, you have a [40 – 60]% chance to become more enraged granting 15% increased damage, 2 Fury per second, and 10% Cooldown Reduction.(Barbarian Only)",
+        "lore": "As he fought side by side with Raekor to liberate the labor camp, Joritz claimed this dented helmet from a fallen foe. As his legend grew, its unique shape became synonymous with his great deeds.",
+        "class": "Barbarian",
+        "image": "/assets/uniques/helmet/tuskhelm_of_joritz_the_mighty_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Tempest Roar",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Damage while Shapeshifted",
+            "Critical Strike Damage",
+            "Maximum Spirit",
+            "Poison Resistance"
+        ],
+        "effect": "Lucky Hit: Storm Skills have up to a [15 – 25]% chance to grant 4 Spirit. Your base Storm Skills are now also Werewolf Skills(Druid Only)",
+        "lore": "\"Listen, child, to the music of the storm. It has its own rhythm. Its own melody. Hear how beautifully it sings, and perhaps one day you will be able to join in its harmony.\" – Airidah",
+        "class": "Druid",
+        "image": "/assets/uniques/helmet/tempest_roar_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Vasily's Prayer",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Damage while Shapeshifted",
+            "Overpower Damage",
+            "Maximum Life",
+            "Lightning Resistance"
+        ],
+        "effect": "Your Earth Skills are now also Werebear Skills and Fortify you for .(Druid Only)",
+        "lore": "\"Roots from the Great Oak growing at the seaward statue of Vasily will, on rare occasions, be found twisted back upon themselves, suffused with ferocious magic.\" - Barrett's Book of Implements",
+        "class": "Druid",
+        "image": "/assets/uniques/helmet/vasilys_prayer_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Andariel's Visage",
+        "type": "Unique Helmet",
+        "attributes": [
+            "All Stats",
+            "Attack Speed",
+            "Life Steal",
+            "Poison Resistance"
+        ],
+        "effect": "Lucky Hit: Up to a 20% chance to trigger a poison nova that applies [18500] Poisoning damage over 5 seconds to enemies in the area.",
+        "lore": "The horrific whispers of the Maiden of Anguish flicker through your mind, pushing you ever closer to madness...",
+        "requiredLevel": 35,
+        "image": "/assets/uniques/helmet/andariels_visage_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Harlequin Crest",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Maximum Life",
+            "Cooldown Reduction",
+            "Resource Generation",
+            "All Stats"
+        ],
+        "effect": "Gain 20% Damage Reduction. In addition, gain +4 Ranks to all Skills.",
+        "lore": "\"This headdress was once worn by an assassin disguised as a court mage. Her treachery was unveiled, but not before she used its magic to curse the king's entire lineage.\" - The Fall of House Aston",
+        "requiredLevel": 35,
+        "image": "/assets/uniques/helmet/harlequin_crest_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Godslayer Crown",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Cooldown Reduction",
+            "Maximum Life",
+            "Damage",
+            "Crowd Control Duration"
+        ],
+        "effect": "When you Stun, Freeze, or Immobilize an Elite enemy, or damage a Boss, it Pulls In Nearby enemies. You deal x[30 – 60]% increased damage to them for 3 seconds. This effect can only occur once every 12 seconds.",
+        "lore": "\"The Sahptev faithful believe in a thousand and one gods. If it takes me as many lifetimes, I will find and kill them all.\" - Gaspar Stilbian, Veradani Outcast",
+        "image": "/assets/uniques/helmet/godslayer_crown_unique_helmet_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Deathless Visage",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Damage Reduction",
+            "Physical Damage",
+            "Bone Critical Strike Damage",
+            "Maximum Essence"
+        ],
+        "effect": "Bone Spear leaves behind echoes as it travels that explode, dealing [3700 * (1 + 0) * [0.5 – 0.7]] damage, increased by 5% for every 30% of your Critical Strike Damage Bonus. Current Bonus: [Floor((Owner.(ComputeCritDamageScalar() + (-1)) + Owner.Crit_Damage_Percent) / (30 / 100)) * 5|x%||1|](Necromancer Only)",
+        "lore": "\"Rathma is endless. He was the first Ancient, and will remain at the end. He is the master of the Great Cycle of Being. When Death comes for him, why should he fear it?\" - Vauntus, Acolyte of Rathma",
+        "class": "Necromancer",
+        "image": "/assets/uniques/helmet/deathless_visage_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Cowl of the Nameless",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Damage Reduction from Close Enemies",
+            "Cooldown Reduction",
+            "Crowd Control Duration",
+            "Imbuement Skills"
+        ],
+        "effect": "You gain x[15 – 25]% increased Lucky Hit Chance against Crowd Controlled enemies.(Rogue Only)",
+        "lore": "\"He is banished from the Guild, his name stricken from the Book. His punishment is to never have been.\" - Excerpt from a burned parchment",
+        "class": "Rogue",
+        "image": "/assets/uniques/helmet/cowl_of_the_nameless_unique_helmet_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Starfall Coronet",
+        "type": "Unique Helmet",
+        "attributes": [
+            "Meteor",
+            "Cooldown Reduction",
+            "Lucky Hit Chance",
+            "Maximum Life"
+        ],
+        "effect": "Meteor now has 1 additional charge with a [6 – 11] second Charge Cooldown instead of a Mana cost, and drops 3 additional meteors around the target. Meteor's Enchantment Effect and Enhanced Meteor drop 1 additional meteor.(Sorcerer Only)",
+        "lore": "\"The elders say they saw a star falling from the sky many years ago. A sign from the heavens that the end times were nigh. A rallying cry to take up arms and protect Sanctuary!\" - Crusader Hamilton",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/helmet/starfall_coronet_unique_helmet_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Custom Chest",
+        "type": "Legendary Chest",
+        "attributes": [],
+        "effect": "This is a test item used for max level boosts.",
+        "image": "/assets/custom_gear.png"
+    },
+    {
+        "name": "Rage of Harrogath",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Physical Damage",
+            "Critical Strike Chance with Physical Damage Against Elites",
+            "Damage Reduction from Enemies That Are Bleeding",
+            "Thorns"
+        ],
+        "effect": "Lucky Hit: Inflicting Bleeding on an enemy has up to a [20 - 40%] chance to reduce the Cooldowns of your Skills by 1 second.",
+        "lore": "Harrogath, the final bastion of resistance against Baal's assault on Mt. Arreat was destroyed along with the Worldstone. The survivors never forgave the betrayal that led to the loss of their home.",
+        "class": "Barbarian",
+        "image": "/assets/uniques/chest/rage_of_harrogath_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Insatiable Fury",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Physical Damage",
+            "Overpower Damage",
+            "Damage Reduction While Fortified",
+            "Total Armor while in Werebear Form"
+        ],
+        "effect": "Werebear form is now your true form, and you gain +3 Ranks to all Werebear Skills.",
+        "lore": "When the Days of Ash began, the great druid Nafain reminded his disciples that nothing, not even the loss of their humanity, was too great a sacrifice to protect Túr Dúlra from Astaroth's flames.",
+        "class": "Druid",
+        "image": "/assets/uniques/chest/insatiable_fury_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Mad Wolf's Glee",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Maximum Life",
+            "Poison Damage",
+            "Damage Reduction from Enemies That Are Poisoned",
+            "Movement Speed"
+        ],
+        "effect": "Werewolf form is now your true form, and you gain +3 Ranks to all Werewolf Skills.",
+        "lore": "\"He was not a victim of the curse - he sought it out. As his skin split and his bones cracked, his laughter never ceased.\" - Tale of the Mad Nobleman",
+        "class": "Druid",
+        "image": "/assets/uniques/chest/mad_wolfs_glee_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Blood Artisan's Cuirass",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Damage for 4 Seconds After Picking Up a Blood Orb",
+            "Blood Orb Healing",
+            "Maximum Life",
+            "Ranks of Bone Spirit"
+        ],
+        "effect": "When you pick up [5 - 10] Blood Orbs, a free Bone Spirit is spawned, dealing bonus damage based on your current Life percent.",
+        "lore": "\"The infamous Necromancer Gaza-Thul's mastery over blood magic was indisputable. Many suspect that upon his death, his skin was used to fashion this eldritch armor.\" - Barrett's Book of Implements",
+        "class": "Necromancer",
+        "image": "/assets/uniques/chest/blood_artisans_cuirass_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Mutilator Plate",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Willpower",
+            "Critical Strike Chance",
+            "Damage Reduction from Enemies That Are Poisoned",
+            "Healing Received"
+        ],
+        "effect": "When you critically strike, you have a [10 - 20]% chance to gain a shield that absorbs [1000 - 2000] damage for 3 seconds.",
+        "lore": "\"Flesh is a canvas. This armor, a masterpiece.\" - Rathma",
+        "class": "Necromancer",
+        "image": "/assets/uniques/chest/mutilator_plate_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Razorplate",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Thorns",
+            "Damage Reduction from Close Enemies",
+            "Maximum Life",
+            "Damage Reduction While Fortified"
+        ],
+        "effect": "Gain [1000 - 2000] Thorns.",
+        "lore": "\"I cut myself upon its edge. Blood spilled, but I could not bear to part with it.\" - Unknown",
+        "class": "Barbarian",
+        "image": "/assets/uniques/chest/razorplate_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Raiment of the Infinite",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Mana",
+            "Damage Reduction from Close Enemies",
+            "Cooldown Reduction",
+            "Critical Strike Damage"
+        ],
+        "effect": "After using Teleport, Close Enemies are Pulled to you and Stunned for [3 - 5] seconds, but Teleport's Cooldown is increased by [10 - 20] seconds.",
+        "lore": "\"I looked into the endless void, and it looked back.\" - Unknown",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/chest/raiment_of_the_infinite_unique_chest_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Scoundrel's Leathers",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Energy",
+            "Cooldown Reduction",
+            "Damage Reduction from Distant Enemies",
+            "Critical Strike Damage"
+        ],
+        "effect": "You gain +[10 - 20]% increased Critical Strike Chance against enemies affected by your Imbuement Skills.",
+        "lore": "\"A thief's greatest asset is his agility. His worst enemy, however, is his own ego.\" - Unknown",
+        "class": "Rogue",
+        "image": "/assets/uniques/chest/scoundrels_leathers_unique_chest_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Soulbrand",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Health",
+            "Energy",
+            "Damage Reduction While Dashing",
+            "Critical Strike Chance"
+        ],
+        "effect": "When you critically strike an enemy, you have a [10 - 20]% chance to gain a shield that absorbs [1000 - 2000] damage for 5 seconds.",
+        "lore": "\"My blade is my soul, and my soul is my blade.\" - Unknown",
+        "class": "Rogue",
+        "image": "/assets/uniques/chest/soulbrand_unique_chest_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Tyrael's Might",
+        "type": "Unique Chest Armor",
+        "itemPower": 925,
+        "armor": 1618,
+        "attributes": [
+            "Holy Damage",
+            "Damage Reduction from Demons",
+            "Health",
+            "Movement Speed"
+        ],
+        "effect": "Gain +[1 - 3] Ranks to all Holy Skills.",
+        "lore": "\"In the name of the Light, I will strike down the evils of this world.\" - Tyrael",
+        "class": "Paladin",
+        "image": "/assets/uniques/chest/tyraels_might_unique_chest_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Custom Pant",
+        "type": "Legendary Pant",
+        "attributes": [],
+        "effect": "This is a test item used for max level boosts.",
+        "image": "/assets/custom_gear.png"
+    },
+    {
+        "name": "Arreat's Bearing",
+        "type": "Unique Pant",
+        "attributes": [
+            "Maximum Life",
+            "Ultimate Cooldown Reduction",
+            "Strength",
+            "Damage Reduction"
+        ],
+        "effect": "Ancients you summon are empowered. Korlic creates an Earthquake that deals [X] Physical damage over 4 seconds when he leaps. Talic leaves behind Dust Devils that deal [X] damage while he whirlwinds. Mawdac ignites the ground Burning enemies for an additional [X] damage over 4 seconds when he upheaves the ground.",
+        "lore": "\"Rise clansmen and reclaim our trampled honor! Ancients' blood runs through us all! We are storms - earth breaking, maelstrom wielding. The fire of the gods burn still! They are with us!\" - Ealda",
+        "class": "Barbarian",
+        "image": "/assets/uniques/pant/arreats_bearing_unique_pant_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Storm's Companion",
+        "type": "Unique Pant",
+        "attributes": [
+            "Maximum Life",
+            "Damage Reduction",
+            "Companion Movement Speed",
+            "Ranks of Wolves"
+        ],
+        "effect": "Your Wolf Companions are infused with the power of the storm, dealing Lightning damage and gaining the Storm Howl ability.",
+        "lore": "\"The storm's rage is my own, brother. I call, and the skies roar in reply.\" - Vasily, to Bul-Kathos",
+        "class": "Druid",
+        "image": "/assets/uniques/pant/storms_companion_unique_pant_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Blood Moon Breeches",
+        "type": "Unique Pant",
+        "attributes": [
+            "Maximum Life",
+            "Ranks of All Curse Skills",
+            "Ranks of the Amplify Damage Passive",
+            "Damage Reduction from Enemies Affected by Curse Skills"
+        ],
+        "effect": "Your Minions have a [3 - 7%] chance to curse enemies. Enemies affected by at least 1 of your curses take x70% increased Overpower damage from you.",
+        "lore": "A naturally occurring curiosity, the blood moon persists as a sign of woe for the most superstitious Zakarum faithful. Children born under it are often considered cursed and cast out, lest it spread.",
+        "class": "Necromancer",
+        "image": "/assets/uniques/pant/blood_moon_breeches_unique_pant_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Eyes in the Dark",
+        "type": "Unique Pant",
+        "attributes": [
+            "Damage Reduction",
+            "Shadow Damage",
+            "Maximum Life",
+            "Damage to Enemies Affected by Trap Skills"
+        ],
+        "effect": "Unless it hits a Boss or Player, Death Trap will continue to re-arm itself until it kills an enemy. Death Trap's is increased by [50 - 70%] , however the Cooldown is increased by [20 - 15%] .",
+        "lore": "\"And so, when the sun dipped behind the hills each night, he knew that Ashen Jack would soon be near. Watching, and waiting.\" - Greenslade's Tales, Chapter 2: \"Each Long Night\"",
+        "class": "Rogue",
+        "image": "/assets/uniques/pant/eyes_in_the_dark_unique_pant_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Iceheart Brais",
+        "type": "Unique Pant",
+        "attributes": [
+            "Maximum Life",
+            "Damage to Frozen Enemies",
+            "Damage Reduction",
+            "Freeze Duration"
+        ],
+        "effect": "Enemies that die while Frozen, have a [21 - 30%] chance to unleash a Frost Nova.",
+        "lore": "The mad artisan saw his fingers turn black from frostbite as he worked the cloth, but refused to stay the needle and thread for even a moment.",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/pant/iceheart_brais_unique_pant_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Tassets of the Dawning Sky",
+        "type": "Unique Pant",
+        "attributes": [
+            "Control Impaired Duration Reduction",
+            "Maximum Life",
+            "All Stats",
+            "Resistance to All Elements"
+        ],
+        "effect": "When you take damage from a Non-Physical damage type, you gain + [8 - 12%] Maximum Resistance to that damage type for 6 seconds. This effect can only apply to one damage type at a time.",
+        "lore": "“May the Light of Father Inarius shine down upon all weary travelers of this holy land. Turn your face toward his radiance and find your strength renewed.” - Statue Inscription",
+        "image": "/assets/uniques/pant/tassets_of_the_dawning_sky_unique_pant_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Temerity",
+        "type": "Unique Pant",
+        "attributes": [
+            "Maximum Life",
+            "Potion Drop Rate",
+            "Lucky Hit: Up to a 5% Chance to Heal [X] Life",
+            "Healing Received"
+        ],
+        "effect": "Effects that Heal you beyond 100% Life grant you a Barrier up to [40 - 80%] of your Maximum Life that lasts for 8 seconds.",
+        "lore": "\"The revelation that master tailor Callas was in fact a witch only served to further fuel the desire for her uniquely enchanted legwraps.\" - Barrett's Book of Implements",
+        "image": "/assets/uniques/pant/temerity_unique_pant_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Tibault's Will",
+        "type": "Unique Pant",
+        "attributes": [
+            "Damage Reduction from Close Enemies",
+            "Potion Capacity",
+            "Damage",
+            "Maximum Resource"
+        ],
+        "effect": "You deal [10 - 20%] increased damage while Unstoppable and for 5 seconds after. When you become Unstoppable, gain 50 of your Primary Resource.",
+        "lore": "\"The younger apprentices think wearing heavy plate in the swamps is foolish. They fail to understand that our armor is our legacy, and without it we are nothing.\" - Crusader Pembroke",
+        "image": "/assets/uniques/pant/tibaults_will_unique_pant_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Custom Glove",
+        "type": "Legendary Glove",
+        "attributes": [],
+        "effect": "This is a test item used for max level boosts.",
+        "image": "/assets/custom_gear.png"
+    },
+    {
+        "name": "Gohr's Devastating Grips",
+        "type": "Unique Glove",
+        "attributes": [
+            "Critical Strike Chance Against Close Enemies",
+            "Lucky Hit Chance",
+            "Damage",
+            "Ranks of Whirlwind"
+        ],
+        "effect": "Whirlwind explodes every 2 seconds and after it ends, dealing [25 - 35%] of the total Base damage dealt to surrounding enemies as Fire damage.",
+        "lore": "\"The brutish construction of these glove belies the strength they bestow. Gohr was clearly no craftsman, but it would be foolish to ignore the triumph of his work.\" - Barrett's Book of Implements",
+        "class": "Barbarian",
+        "image": "/assets/uniques/glove/gohrs_devastating_grips_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Twin Strikes",
+        "type": "Unique Glove",
+        "attributes": [
+            "Attack Speed",
+            "Lucky Hit: Up to a 5% Chance to Restore Primary Resource",
+            "Damage",
+            "Ranks to Double Swing"
+        ],
+        "effect": "After casting Double Swing 4 times, your next Double Swing will hit 2 additional times, each dealing [10 - 25%] increased damage.",
+        "lore": "\"When hitting it once doesn't kill it, hit it twice.\" - Bear Tribe Proverb",
+        "class": "Barbarian",
+        "image": "/assets/uniques/glove/twin_strikes_unique_glove_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Unsung Ascetic's Wraps",
+        "type": "Unique Glove",
+        "attributes": [
+            "Lucky Hit Chance",
+            "Ranks of Lightning Storm",
+            "Critical Strike Chance",
+            "Ranks of the Defiance Passive"
+        ],
+        "effect": "Lightning Storm gains 1 additional strike each times it grows. Lightning Storm Critical Strikes cause lightning to strike twice, dealing [10 - 20%] increased damage.",
+        "lore": "\"The storm caller returns, day after day, demanding to meet the Tree. He beats his chest and demonstrates his powers, refusing to believe that he will never be chosen.\" - Excerpt from Gulyas' Diary",
+        "class": "Druid",
+        "image": "/assets/uniques/glove/unsung_ascetics_wraps_unique_glove_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Cruor's Embrace",
+        "type": "Unique Glove",
+        "attributes": [
+            "Overpower Damage",
+            "Core Damage",
+            "Lucky Hit: Up to a 5% Chance to Heal Life",
+            "Ranks to Blood Surge"
+        ],
+        "effect": "Blood Surge consumes Corpses to cause mini novas, dealing [X] damage. Damage is increased by 10% per target drained by the initial cast, up to 50%. Damage is also increased by 20% for each Corpse consumed.",
+        "lore": "In the blood dancer's grasp, a victim lies, A vessel dried 'neath darkened skies. Their life extinguished, veins burst and drained, In Cruor's embrace, forever enchained.",
+        "class": "Necromancer",
+        "image": "/assets/uniques/glove/cruors_embrace_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Howl from Below",
+        "type": "Unique Glove",
+        "attributes": [
+            "Lucky Hit Chance",
+            "Corpse Skill Attack Speed",
+            "Lucky Hit: Up to a [X]% Chance to Stun",
+            "Lucky Hit: Up to a [X]% Chance to Fear"
+        ],
+        "effect": "Instead of detonating immediately, Corpse Explosion summons a Volatile Skeleton that charges at a random enemy and explodes. Corpse Explosion's damage is increased by [30 - 40%] .",
+        "lore": "\"Can you not hear it? That endless scream from the cold earth beneath your feet!? They are down there, trapped, blind with rage! Waiting to drag us down into the sod!\" - Ravings of Madman Gustav",
+        "class": "Necromancer",
+        "image": "/assets/uniques/glove/howl_from_below_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Grasp of Shadow",
+        "type": "Unique Glove",
+        "attributes": [
+            "Attack Speed",
+            "Dexterity",
+            "Shadow Clone Damage",
+            "Ranks of All Core Skills"
+        ],
+        "effect": "Lucky Hit: Damaging a Vulnerable enemy with a Marskman or Cutthroat Skill has up to a [24 - 34%] chance to summon a Shadow Clone that mimics your attack.",
+        "lore": "Dark wisps creep hungrily across these glove, like an assassin's blade seeking a life to steal on a moonless night.",
+        "class": "Rogue",
+        "image": "/assets/uniques/glove/grasp_of_shadow_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Flameweaver",
+        "type": "Unique Glove",
+        "attributes": [
+            "Attack Speed",
+            "Damage to Burning Enemies",
+            "Ranks to Fire Bolt",
+            "Ranks to Devouring Blaze"
+        ],
+        "effect": "Casting Fire Bolt through your Firewall causes it to split into 3 bolts, each dealing [30 - 70%] more damage.",
+        "lore": "",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/glove/flameweaver_unique_glove_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "Glove of the Illuminator",
+        "type": "Unique Glove",
+        "attributes": [
+            "Critical Strike Chance",
+            "Fireball Attack Speed",
+            "Lucky Hit: Up to a 55% Chance to Restore [X]% Primary Resource",
+            "Ranks of Fireball"
+        ],
+        "effect": "Fireball now bounces as it travels, exploding each time it hits the ground, but it's explosion deals [35 - 25%] less damage.",
+        "lore": "After Inarius returned to Sanctuary, he sought a way back to the High Heavens. His first step was to reignite the religion he had abandoned millennia before: the Cathedral of Light.",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/glove/glove_of_the_illuminator_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Fists of Fate",
+        "type": "Unique Glove",
+        "attributes": [
+            "Lucky Hit: Up to a 10% Chance to Gain [X]% Damage for 4 Seconds",
+            "Lucky Hit: Up to a 5% Chance to Restore [X]% Primary Resource",
+            "Lucky Hit: Up to a [X]% Chance to Immobilize",
+            "Lucky Hit: Up to a [X]% Chance to Daze"
+        ],
+        "effect": "Your attacks randomly deal 1% to [200 - 300%] of their normal damage.",
+        "lore": "\"Will you let fear cheat you, or will you risk everything to find understanding? After all, death is simply the coin with which we purchase life.\" - Zurke",
+        "class": "",
+        "image": "/assets/uniques/glove/fists_of_fate_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Frostburn",
+        "type": "Unique Glove",
+        "attributes": [
+            "Critical Strike Chance",
+            "Attack Speed",
+            "Freeze Duration",
+            "Lucky Hit: Up to a 5% Chance to Restore [X]% Primary Resource"
+        ],
+        "effect": "Lucky Hit: Up to a [15 - 25%] chance to Freeze enemies for 2 seconds.",
+        "lore": "A touch so frigid it stops the heart and chills the very soul.",
+        "class": "",
+        "image": "/assets/uniques/glove/frostburn_unique_glove_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Paingorger's Gauntlets",
+        "type": "Unique Glove",
+        "attributes": [
+            "Basic Skill Damage",
+            "Attack Speed",
+            "All Stats",
+            "Critical Strike Chance"
+        ],
+        "effect": "Damaging enemies with a cast Non-Basic Skill marks them for 3 seconds. When a Basic Skill first hits a marked enemy, the Basic Skill's damage is echoed to all marked enemies, dealing [100 - 200%] increased damage.",
+        "lore": "Crafted from fragments of Duriel's carapace, wearing these glove, or being struck by them, causes an agonizing sensation akin to pushing one's hands through a thousand shards of glass.",
+        "class": "",
+        "image": "/assets/uniques/glove/paingorgers_gauntlets_unique_glove_diablo4_wiki_guide_122x182px.png"
+    },
+    {
+        "name": "100,000 Steps",
+        "type": "Unique Boots",
+        "attributes": [
+            "Dexterity",
+            "Damage with Skills that Swap to New Weapons",
+            "Movement Speed",
+            "Ranks of Ground Stomp"
+        ],
+        "effect": "After gaining the final damage bonus from the Walking Arsenal Key Passive, you automatically cast Ground Stomp and gain [32 - 50] Fury. This cannot happen more than once every 15 seconds.",
+        "lore": "\"While many Barbarians remained in the Dreadlands, small groups from the Oxen, Crane and Bear tribes instead chose to search the land for a new home.\" - A History of the Children of Bul-Kathos",
+        "class": "Barbarian",
+        "image": "/assets/uniques/boot/100000_steps_unique_boot_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Wildheart Hunger",
+        "type": "Unique Boots",
+        "attributes": [
+            "Overpower Damage",
+            "Damage Reduction",
+            "Critical Strike Damage",
+            "Movement Speed"
+        ],
+        "effect": "When you Shapeshift into a Werewolf or a Werebear, you gain Wildheart for 5 seconds. Wildheart grants you [1 - 1.5%] increased damage with Shapeshifting Skills every 2 seconds, stacking 20 times.",
+        "lore": "",
+        "class": "Druid",
+        "image": "/assets/uniques/boot/wildheart_hunger_unique_boot_diablo4_wiki_guide_122px.png"
+    },
+    {
+        "name": "Greaves of the Empty Tomb",
+        "type": "Unique Boots",
+        "attributes": [
+            "Movement Speed",
+            "Essence Cost Reduction",
+            "Lucky Hit Chance with Shadow Damage",
+            "Damage Reduction from Enemies That Are Affected By Shadow Damage Over Time"
+        ],
+        "effect": "Create desecrated ground beneath your Sever spectres as they travel, damaging enemies for [X] Shadow damage over 2 seconds.",
+        "lore": "\"The massive door to my family's crypt, which had taken a dozen men to close, was thrown open. Had I known the horrors to come I never would have set foot inside!\" -The Ebon Pages, Canto I, Verse VII",
+        "class": "Necromancer",
+        "image": "/assets/uniques/boot/greaves_of_the_empty_tomb_unique_boot_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Beastfall Boots",
+        "type": "Unique Boots",
+        "attributes": [
+            "Maximum Energy",
+            "Damage Reduction",
+            "Cooldown Reduction",
+            "Movement Speed"
+        ],
+        "effect": "When you cast an Ultimate Skill, your next Core Skill consumes all of your energy and deals [0.25 - 0.75%] increased damage per Energy consumed. Using a Cooldown restores 15 Energy.",
+        "lore": "\"Genai grew proud and fond of boasting of her hunting prowess. She claimed she was fast enough to catch even the spirit Leraye, who cursed her for such an insult.\" - Fable of Genai's Twenty Trials",
+        "class": "Rogue",
+        "image": "/assets/uniques/boot/beastfall_boot_unique_boot_diablo4_wiki_guide_122px.png"
+    },
+    {
+        "name": "Esu's Heirloom",
+        "type": "Unique Boots",
+        "attributes": [
+            "Movement Speed",
+            "Movement Speed for 4 Seconds After Killing an Elite",
+            "Mana Cost Reduction",
+            "Critical Strike Damage"
+        ],
+        "effect": "Your Critical Strike Chance is increased by [20 - 30%] of your Movement Speed bonus.",
+        "lore": "\"While scholars have proven these boot were not created by Esu herself, it is noteworthy that they have been passed down since the formation of the Mage Clans.\" - Barrett's Book of Implements",
+        "class": "Sorcerer",
+        "image": "/assets/uniques/boot/esus_heirloom_unique_boot_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Flickerstep",
+        "type": "Unique Boots",
+        "attributes": [
+            "All Stats",
+            "Movement Speed",
+            "Ultimate Skill Damage",
+            "Damage Reduction from Close Enemies"
+        ],
+        "effect": "Each enemy you Evade through reduces your active Ultimate Cooldown by [2.0 - 4.0] seconds, up to 10 seconds.",
+        "lore": "\"Considered a failure by their creator, it wasn't until the assassination of an \"untouchable\" Caldeum noble that these boot' true power was understood.\" - Barrett's Book of Implements",
+        "class": "",
+        "image": "/assets/uniques/boot/flickerstep_unique_boot_diablo4_wiki_guide_122px.png"
+    },
+    {
+        "name": "Penitent Greaves",
+        "type": "Unique Boots",
+        "attributes": [
+            "Movement Speed",
+            "Crowd Control Duration",
+            "Slow Duration Reduction",
+            "Cold Resistance"
+        ],
+        "effect": "You leave behind a trail of frost that Chills enemies. You deal [12 - 15%] more damage to Chilled enemies.",
+        "lore": "Remorseful devotees of the Cathedral of Light must undertake a grueling pilgrimage, journeying across the frigid glacier known as the Serac Rapture. Only then may their gravest sins be forgiven.",
+        "class": "",
+        "image": "/assets/uniques/boot/penitent_greaves_unique_boot_diablo4_wiki_guide_122x182px.webp"
+    },
+    {
+        "name": "Yen's Blessing",
+        "type": "Unique Boots",
+        "attributes": [
+            "Damage Reduction from Close Enemies",
+            "Movement Speed",
+            "Vulnerable Damage",
+            "Lucky Hit: Up to a 5% Chance to Restore Primary Resource"
+        ],
+        "effect": "Casting a Skill has a [40 - 60%] chance to cast a Non-Mobility, Non-Ultimate Skill that is currently on Cooldown. This effect can only occur once every 8 seconds.",
+        "lore": "These greaves are imbued with the divine blessing of Yen, the Veradani goddess of restoration. They bestow the wearer a revitalizing strength that enhances their own.",
+        "class": "",
+        "image": "/assets/uniques/boot/yens_blessing_boot_unique_boot_diablo4_wiki_guide_122px.png"
+    }
+]

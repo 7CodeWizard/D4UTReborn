@@ -1,0 +1,15 @@
+// public/js/damageCalculation.js
+import { getState } from './state.js';
+
+export function calculateDPS() {
+    const totalAttributes = getState('totalAttributes');
+    const selectedClass = getState('selectedClass').name;
+
+    const baseDamage = totalAttributes['Strength'] || 0;
+    const weaponDamage = totalAttributes['Weapon Damage'] || 0;
+    const skillMultiplier = selectedClass === 'Sorceress' ? 1.2 : 1.0;
+
+    const dps = (baseDamage + weaponDamage) * skillMultiplier;
+    console.log('DPS:', dps.toFixed(2));
+    return dps.toFixed(2);
+}

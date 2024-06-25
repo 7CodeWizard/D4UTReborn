@@ -1,0 +1,129 @@
+[
+  {
+    "id": 40,
+    "name": "Bash",
+    "icon": "bash.png",
+    "damageMultiplier": 0.3,
+    "tags": ["Basic", "Bludgeoning", "Physical"]
+  },
+  {
+    "id": 41,
+    "name": "Flay (Total)",
+    "icon": "flay.png",
+    "damageMultiplier": 0.45,
+    "tags": ["Basic", "Slashing", "DualWielding", "Physical", "Bleeding"]
+  },
+  {
+    "id": 42,
+    "name": "Frenzy",
+    "icon": "frenzy.png",
+    "damageMultiplier": 0.22,
+    "tags": ["Basic", "DualWielding", "Physical"]
+  },
+  {
+    "id": 43,
+    "name": "Lunging Strike",
+    "icon": "lunging_strike.png",
+    "damageMultiplier": 0.33,
+    "tags": ["Basic", "Slashing", "Bludgeoning", "DualWielding", "Physical"]
+  },
+  {
+    "id": 44,
+    "name": "Hammer of the Ancients",
+    "icon": "hammer_of_the_ancients.png",
+    "damageMultiplier": 0.5,
+    "tags": ["Core", "Bludgeoning", "Physical"]
+  },
+  {
+    "id": 45,
+    "name": "Rend (Total)",
+    "icon": "rend.png",
+    "damageMultiplier": 1.08,
+    "tags": ["Core", "Slashing", "DualWielding", "Physical", "Bleeding"]
+  },
+  {
+    "id": 46,
+    "name": "Double Swing (Hit)",
+    "icon": "double_swing.png",
+    "damageMultiplier": 0.4,
+    "tags": ["Core", "DualWielding", "Physical"]
+  },
+  {
+    "id": 47,
+    "name": "Upheaval",
+    "icon": "upheaval.png",
+    "damageMultiplier": 0.7,
+    "tags": ["Core", "Slashing", "Bludgeoning", "Physical"]
+  },
+  {
+    "id": 48,
+    "name": "Whirlwind",
+    "icon": "whirlwind.png",
+    "damageMultiplier": 0.1733,
+    "tags": ["Core", "Channeled", "Physical", "Slashing", "Bludgeoning", "DualWielding"]
+  },
+  {
+    "id": 49,
+    "name": "Ground Stomp",
+    "icon": "ground_stomp.png",
+    "damageMultiplier": 0.095,
+    "tags": ["Defensive", "Physical"]
+  },
+  {
+    "id": 50,
+    "name": "Kick (Total)",
+    "icon": "kick.png",
+    "damageMultiplier": 0.88,
+    "tags": ["Brawling", "Physical"]
+  },
+  {
+    "id": 51,
+    "name": "Leap",
+    "icon": "leap.png",
+    "damageMultiplier": 0.325,
+    "tags": ["Brawling", "Physical", "Slashing", "DualWielding", "Bludgeoning"]
+  },
+  {
+    "id": 52,
+    "name": "Charge",
+    "icon": "charge.png",
+    "damageMultiplier": 0.25,
+    "tags": ["Brawling", "Physical", "Slashing", "DualWielding", "Bludgeoning"]
+  },
+  {
+    "id": 53,
+    "name": "Steel Grasp",
+    "icon": "steel_grasp.png",
+    "damageMultiplier": 0.23,
+    "tags": ["WeaponMastery", "Physical"]
+  },
+  {
+    "id": 54,
+    "name": "Death Blow",
+    "icon": "death_blow.png",
+    "damageMultiplier": 1.2,
+    "tags": ["WeaponMastery", "Physical", "Bludgeoning", "Slashing", "DualWielding"]
+  },
+  {
+    "id": 55,
+    "name": "Rupture",
+    "icon": "rupture.png",
+    "damageMultiplier": 0.13,
+    "tags": ["WeaponMastery", "Slashing", "Physical"],
+    "special": {
+      "isUnique": false,
+      "hasDot": true
+    }
+  },
+  {
+    "id": 56,
+    "name": "Custom",
+    "icon": "custom.png",
+    "damageMultiplier": 1,
+    "tags": ["Custom"],
+    "special": {
+      "isUnique": true,
+      "hasDot": true
+    }
+  }
+]

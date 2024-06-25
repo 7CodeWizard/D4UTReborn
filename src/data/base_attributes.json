@@ -1,0 +1,10 @@
+{
+    "Movement Speed": 100,
+    "Critical Strike Chance": 5,
+    "Critical Strike Damage": 50,
+    "Overpower Chance": 3,
+    "Overpower Damage": 50,
+    "Vulnerable Damage": 20,
+    "Maximum Life": 40
+  }
+  

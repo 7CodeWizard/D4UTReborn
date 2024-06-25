@@ -1,0 +1,191 @@
+[
+    {
+      "id": 30,
+      "name": "Heartseeker",
+      "icon": "heartseeker.png",
+      "damageMultiplier": 0.24,
+      "tags": ["Basic", "Marksman", "Physical", "Ranged"]
+    },
+    {
+      "id": 31,
+      "name": "Puncture",
+      "icon": "puncture.png",
+      "damageMultiplier": 0.21,
+      "tags": ["Basic", "Marksman", "Physical", "DualWielding"]
+    },
+    {
+      "id": 32,
+      "name": "Invigorating Strike",
+      "icon": "invigorating_strike.png",
+      "damageMultiplier": 0.25,
+      "tags": ["Basic", "Cutthroat", "Physical", "DualWielding"]
+    },
+    {
+      "id": 33,
+      "name": "Forceful Arrow",
+      "icon": "forceful_arrow.png",
+      "damageMultiplier": 0.22,
+      "tags": ["Basic", "Marksman", "Physical", "Ranged"]
+    },
+    {
+      "id": 34,
+      "name": "Blade Shift",
+      "icon": "blade_shift.png",
+      "damageMultiplier": 0.16,
+      "tags": ["Basic", "Cutthroat", "Physical", "DualWielding"]
+    },
+    {
+      "id": 35,
+      "name": "Rapid Fire",
+      "icon": "rapid_fire.png",
+      "damageMultiplier": 0.3,
+      "tags": ["Core", "Marksman", "Physical", "Imbued", "Ranged"]
+    },
+    {
+      "id": 36,
+      "name": "Flurry",
+      "icon": "flurry.png",
+      "damageMultiplier": 0.6,
+      "tags": ["Core", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 37,
+      "name": "Barrage",
+      "icon": "barrage.png",
+      "damageMultiplier": 1.1,
+      "tags": ["Core", "Marksman", "Physical", "Imbued", "Ranged"]
+    },
+    {
+      "id": 38,
+      "name": "Twisting Blades (Total)",
+      "icon": "twisting_blades.png",
+      "damageMultiplier": 1.17,
+      "tags": ["Core", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 381,
+      "name": "Twisting Blades (Forward)",
+      "icon": "twisting_blades.png",
+      "damageMultiplier": 0.45,
+      "tags": ["Core", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 382,
+      "name": "Twisting Blades (Back)",
+      "icon": "twisting_blades.png",
+      "damageMultiplier": 0.72,
+      "tags": ["Core", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 39,
+      "name": "Penetrating Shot",
+      "icon": "penetrating_shot.png",
+      "damageMultiplier": 0.7,
+      "tags": ["Core", "Marksman", "Physical", "Imbued", "Ranged"]
+    },
+    {
+      "id": 310,
+      "name": "Caltrops",
+      "icon": "caltrops.png",
+      "damageMultiplier": 0.4,
+      "tags": ["Agility", "Trap", "Physical"]
+    },
+    {
+      "id": 311,
+      "name": "Poison Imbuement",
+      "icon": "poison_imbuement.png",
+      "damageMultiplier": 0.25,
+      "tags": ["Imbuement", "Poison"]
+    },
+    {
+      "id": 312,
+      "name": "Shadow Imbuement",
+      "icon": "shadow_imbuement.png",
+      "damageMultiplier": 0.4,
+      "tags": ["Imbuement", "Shadow"]
+    },
+    {
+      "id": 313,
+      "name": "Dash",
+      "icon": "dash.png",
+      "damageMultiplier": 0.368,
+      "tags": ["Agility", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 314,
+      "name": "Shadow Step",
+      "icon": "shadow_step.png",
+      "damageMultiplier": 0.72,
+      "tags": ["Agility", "Cutthroat", "Physical", "Imbued", "DualWielding"]
+    },
+    {
+      "id": 315,
+      "name": "Poison Trap (Total)",
+      "icon": "poison_trap.png",
+      "damageMultiplier": 3.4416,
+      "tags": ["Trap", "Poison"]
+    },
+    {
+      "id": 3151,
+      "name": "Poison Trap (Second)",
+      "icon": "poison_trap.png",
+      "damageMultiplier": 0.3824,
+      "tags": ["Trap", "Poison"]
+    },
+    {
+      "id": 316,
+      "name": "Rain of Arrows (Full)",
+      "icon": "rain_of_arrows.png",
+      "damageMultiplier": 2,
+      "tags": ["Ultimate", "Marksman", "Physical", "Imbued", "Ranged"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 3161,
+      "name": "Rain of Arrows (One Hit)",
+      "icon": "rain_of_arrows.png",
+      "damageMultiplier": 1,
+      "tags": ["Ultimate", "Marksman", "Physical", "Imbued", "Ranged"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 317,
+      "name": "Death Trap",
+      "icon": "death_trap.png",
+      "damageMultiplier": 2.5,
+      "tags": ["Ultimate", "Trap", "Shadow"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 318,
+      "name": "Shadow Clone",
+      "icon": "shadow_clone.png",
+      "damageMultiplier": 0.6,
+      "tags": ["Ultimate", "Physical"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 319,
+      "name": "Custom",
+      "icon": "custom.png",
+      "damageMultiplier": 1,
+      "tags": ["Custom"],
+      "special": {
+        "isUnique": true,
+        "hasDot": true
+      }
+    }
+  ]
+  

@@ -1,0 +1,272 @@
+[
+    {
+      "id": 10,
+      "name": "Arc Lash",
+      "icon": "arc_lash.png",
+      "damageMultiplier": 0.42,
+      "tags": ["Basic", "Shock", "Lightning"]
+    },
+    {
+      "id": 11,
+      "name": "Fire Bolt (Total)",
+      "icon": "fire_bolt.png",
+      "damageMultiplier": 0.54,
+      "tags": ["Basic", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 111,
+      "name": "Fire Bolt (Hit)",
+      "icon": "fire_bolt.png",
+      "damageMultiplier": 0.1,
+      "tags": ["Basic", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 112,
+      "name": "Fire Bolt (DoT per Second)",
+      "icon": "fire_bolt.png",
+      "damageMultiplier": 0.055,
+      "tags": ["Basic", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 12,
+      "name": "Frost Bolt",
+      "icon": "frost_bolt.png",
+      "damageMultiplier": 0.38,
+      "tags": ["Basic", "Frost", "Chill", "Cold"]
+    },
+    {
+      "id": 13,
+      "name": "Spark (Total)",
+      "icon": "spark.png",
+      "damageMultiplier": 0.4,
+      "tags": ["Basic", "Shock", "Lightning"]
+    },
+    {
+      "id": 131,
+      "name": "Spark (Hit)",
+      "icon": "spark.png",
+      "damageMultiplier": 0.1,
+      "tags": ["Basic", "Shock", "Lightning"]
+    },
+    {
+      "id": 14,
+      "name": "Incinerate (Average Damage)",
+      "icon": "incinerate.png",
+      "damageMultiplier": 0.63,
+      "tags": ["Core", "Pyromancy", "Channeled", "Fire"]
+    },
+    {
+      "id": 141,
+      "name": "Incinerate (Start Damage)",
+      "icon": "incinerate.png",
+      "damageMultiplier": 0.54,
+      "tags": ["Core", "Pyromancy", "Channeled", "Fire"]
+    },
+    {
+      "id": 142,
+      "name": "Incinerate (High Damage)",
+      "icon": "incinerate.png",
+      "damageMultiplier": 0.73,
+      "tags": ["Core", "Pyromancy", "Channeled", "Fire"]
+    },
+    {
+      "id": 15,
+      "name": "Fireball",
+      "icon": "fireball.png",
+      "damageMultiplier": 0.6,
+      "tags": ["Core", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 16,
+      "name": "Frozen Orb",
+      "icon": "frozen_orb.png",
+      "damageMultiplier": 0.36,
+      "tags": ["Core", "Frost", "Chill", "Cold"]
+    },
+    {
+      "id": 161,
+      "name": "Frozen Orb (Explode)",
+      "icon": "frozen_orb.png",
+      "damageMultiplier": 0.34,
+      "tags": ["Core", "Frost", "Chill", "Cold"]
+    },
+    {
+      "id": 17,
+      "name": "Ice Shards (Total)",
+      "icon": "ice_shards.png",
+      "damageMultiplier": 1.25,
+      "tags": ["Core", "Frost", "Frozen", "Cold"]
+    },
+    {
+      "id": 171,
+      "name": "Ice Shards (Hit)",
+      "icon": "ice_shards.png",
+      "damageMultiplier": 0.25,
+      "tags": ["Core", "Frost", "Frozen", "Cold"]
+    },
+    {
+      "id": 18,
+      "name": "Chain Lightning",
+      "icon": "chain_lightning.png",
+      "damageMultiplier": 0.36,
+      "tags": ["Core", "Shock", "Lightning"]
+    },
+    {
+      "id": 19,
+      "name": "Charged Bolts (Total)",
+      "icon": "charged_bolts.png",
+      "damageMultiplier": 1.5,
+      "tags": ["Core", "Shock", "Lightning"]
+    },
+    {
+      "id": 191,
+      "name": "Charged Bolts (Hit)",
+      "icon": "charged_bolts.png",
+      "damageMultiplier": 0.3,
+      "tags": ["Core", "Shock", "Lightning"]
+    },
+    {
+      "id": 110,
+      "name": "Flame Shield",
+      "icon": "flame_shield.png",
+      "damageMultiplier": 0.4,
+      "tags": ["Defensive", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 1111,
+      "name": "Teleport",
+      "icon": "teleport.png",
+      "damageMultiplier": 0.25,
+      "tags": ["Defensive", "Shock", "Lightning"]
+    },
+    {
+      "id": 1121,
+      "name": "Hydra (1 Head)",
+      "icon": "hydra.png",
+      "damageMultiplier": 0.12,
+      "tags": ["Conjuration", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 113,
+      "name": "Ice Blades (Hit)",
+      "icon": "ice_blades.png",
+      "damageMultiplier": 0.23,
+      "tags": ["Conjuration", "Frost", "Cold"]
+    },
+    {
+      "id": 114,
+      "name": "Lightning Spear (Hit)",
+      "icon": "lightning_spear.png",
+      "damageMultiplier": 0.15,
+      "tags": ["Conjuration", "Shock", "Lightning"]
+    },
+    {
+      "id": 115,
+      "name": "Blizzard",
+      "icon": "blizzard.png",
+      "damageMultiplier": 1.3,
+      "tags": ["Mastery", "Frost", "Chill", "Cold"]
+    },
+    {
+      "id": 116,
+      "name": "Meteor (Total)",
+      "icon": "meteor.png",
+      "damageMultiplier": 1.15,
+      "tags": ["Mastery", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 1161,
+      "name": "Meteor (Hit)",
+      "icon": "meteor.png",
+      "damageMultiplier": 0.8,
+      "tags": ["Mastery", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 1162,
+      "name": "Meteor (DoT per Second)",
+      "icon": "meteor.png",
+      "damageMultiplier": 0.1167,
+      "tags": ["Mastery", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 117,
+      "name": "Firewall (DoT per Second)",
+      "icon": "firewall.png",
+      "damageMultiplier": 0.2,
+      "tags": ["Mastery", "Pyromancy", "Fire"]
+    },
+    {
+      "id": 121,
+      "name": "Ball Lightning",
+      "icon": "ball_lightning.png",
+      "damageMultiplier": 0.18,
+      "tags": ["Mastery", "Shock"]
+    },
+    {
+      "id": 118,
+      "name": "Deep Freeze (Total)",
+      "icon": "deep_freeze.png",
+      "damageMultiplier": 1.25,
+      "tags": ["Ultimate", "Frost", "Chill", "Cold"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 1181,
+      "name": "Deep Freeze (DoT per Second)",
+      "icon": "deep_freeze.png",
+      "damageMultiplier": 0.0625,
+      "tags": ["Ultimate", "Frost", "Chill", "Cold"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 1182,
+      "name": "Deep Freeze (Explode)",
+      "icon": "deep_freeze.png",
+      "damageMultiplier": 1,
+      "tags": ["Ultimate", "Frost", "Chill", "Cold"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 119,
+      "name": "Inferno (Total)",
+      "icon": "inferno.png",
+      "damageMultiplier": 2.95,
+      "tags": ["Ultimate", "Pyromancy", "Fire"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 1191,
+      "name": "Inferno (DoT per Second)",
+      "icon": "inferno.png",
+      "damageMultiplier": 0.36875,
+      "tags": ["Ultimate", "Pyromancy", "Fire"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 120,
+      "name": "Custom",
+      "icon": "custom.png",
+      "damageMultiplier": 1,
+      "tags": ["Custom"],
+      "special": {
+        "isUnique": true,
+        "hasDot": true
+      }
+    }
+  ]
+  

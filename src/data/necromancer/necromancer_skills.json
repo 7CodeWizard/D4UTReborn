@@ -1,0 +1,211 @@
+[
+  {
+    "id": 50,
+    "name": "Bone Splinters (Total)",
+    "icon": "bone_splinters.png",
+    "damageMultiplier": 0.27,
+    "tags": ["Basic", "Necromancer", "Bone", "Physical"]
+  },
+  {
+    "id": 501,
+    "name": "Bone Splinters (Hit)",
+    "icon": "bone_splinters.png",
+    "damageMultiplier": 0.09,
+    "tags": ["Basic", "Necromancer", "Bone", "Physical"]
+  },
+  {
+    "id": 51,
+    "name": "Decompose",
+    "icon": "decompose.png",
+    "damageMultiplier": 0.33,
+    "tags": ["Basic", "Necromancer", "Darkness", "Channeled", "Shadow"]
+  },
+  {
+    "id": 52,
+    "name": "Reap",
+    "icon": "reap.png",
+    "damageMultiplier": 0.13,
+    "tags": ["Basic", "Necromancer", "Darkness", "Shadow"]
+  },
+  {
+    "id": 53,
+    "name": "Hemorrhage",
+    "icon": "hemorrhage.png",
+    "damageMultiplier": 0.27,
+    "tags": ["Basic", "Necromancer", "BloodOrb", "Blood", "Physical"]
+  },
+  {
+    "id": 54,
+    "name": "Bone Spear",
+    "icon": "bone_spear.png",
+    "damageMultiplier": 0.85,
+    "tags": ["Core", "Necromancer", "Bone", "Physical"]
+  },
+  {
+    "id": 55,
+    "name": "Blight (Total)",
+    "icon": "blight.png",
+    "damageMultiplier": 1.0998,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow", "ShadowDoT"]
+  },
+  {
+    "id": 551,
+    "name": "Blight (Hit)",
+    "icon": "blight.png",
+    "damageMultiplier": 0.3,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow"]
+  },
+  {
+    "id": 552,
+    "name": "Blight (DoT per Second)",
+    "icon": "blight.png",
+    "damageMultiplier": 0.1333,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow", "ShadowDoT"]
+  },
+  {
+    "id": 56,
+    "name": "Sever (Total)",
+    "icon": "sever.png",
+    "damageMultiplier": 0.87,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow"]
+  },
+  {
+    "id": 561,
+    "name": "Sever (Forward)",
+    "icon": "sever.png",
+    "damageMultiplier": 0.66,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow"]
+  },
+  {
+    "id": 562,
+    "name": "Sever (Back)",
+    "icon": "sever.png",
+    "damageMultiplier": 0.21,
+    "tags": ["Core", "Necromancer", "Darkness", "Shadow"]
+  },
+  {
+    "id": 57,
+    "name": "Blood Surge (Total)",
+    "icon": "blood_surge.png",
+    "damageMultiplier": 0.7,
+    "tags": ["Core", "Necromancer", "Blood", "Physical"]
+  },
+  {
+    "id": 571,
+    "name": "Blood Surge (Hit)",
+    "icon": "blood_surge.png",
+    "damageMultiplier": 0.2,
+    "tags": ["Core", "Necromancer", "Blood", "Physical"]
+  },
+  {
+    "id": 572,
+    "name": "Blood Surge (Blood Nova)",
+    "icon": "blood_surge.png",
+    "damageMultiplier": 0.5,
+    "tags": ["Core", "Necromancer", "Blood", "Physical"]
+  },
+  {
+    "id": 58,
+    "name": "Blood Lance",
+    "icon": "blood_lance.png",
+    "damageMultiplier": 0.8,
+    "tags": ["Core", "Necromancer", "Blood", "Physical"]
+  },
+  {
+    "id": 59,
+    "name": "Golem (Passive)",
+    "icon": "golem.webp",
+    "damageMultiplier": 0.26059,
+    "tags": ["Minions", "Necromancer", "Golem", "Physical"]
+  },
+  {
+    "id": 510,
+    "name": "Golem (Active)",
+    "icon": "golem.webp",
+    "damageMultiplier": 1.925,
+    "tags": ["Minions", "Necromancer", "Golem", "Physical"]
+  },
+  {
+    "id": 511,
+    "name": "Bone Spirit",
+    "icon": "bone_spirit.png",
+    "damageMultiplier": 0.8,
+    "tags": ["Bone", "Necromancer", "Physical"]
+  },
+  {
+    "id": 512,
+    "name": "Corpse Explosion",
+    "icon": "corpse_explosion.png",
+    "damageMultiplier": 1.0998,
+    "tags": ["Corpse", "Necromancer", "Physical", "Corruption"]
+  },
+  {
+    "id": 513,
+    "name": "Iron Maiden",
+    "icon": "iron_maiden.png",
+    "damageMultiplier": 0.2,
+    "tags": ["Curse", "Necromancer", "Physical", "Corruption"]
+  },
+  {
+    "id": 514,
+    "name": "Corpse Tendrils",
+    "icon": "corpse_tendrils.png",
+    "damageMultiplier": 0.2,
+    "tags": ["Corpse", "Necromancer", "Physical", "Corruption"]
+  },
+  {
+    "id": 515,
+    "name": "Army of the Dead",
+    "icon": "army_of_the_dead.png",
+    "damageMultiplier": 0.45,
+    "tags": ["Ultimate", "Necromancer", "Physical"],
+    "special": {
+      "isUnique": false,
+      "hasDot": true
+    }
+  },
+  {
+    "id": 516,
+    "name": "Bone Storm (Total)",
+    "icon": "bone_storm.png",
+    "damageMultiplier": 1.8,
+    "tags": ["Ultimate", "Necromancer", "Bone", "Physical"],
+    "special": {
+      "isUnique": false,
+      "hasDot": true
+    }
+  },
+  {
+    "id": 5161,
+    "name": "Bone Storm (DoT per Second)",
+    "icon": "bone_storm.png",
+    "damageMultiplier": 0.18,
+    "tags": ["Ultimate", "Necromancer", "Bone", "Physical"],
+    "special": {
+      "isUnique": false,
+      "hasDot": true
+    }
+  },
+  {
+    "id": 517,
+    "name": "Blood Wave",
+    "icon": "blood_wave.png",
+    "damageMultiplier": 1.2,
+    "tags": ["Ultimate", "Necromancer", "Blood", "Physical"],
+    "special": {
+      "isUnique": false,
+      "hasDot": true
+    }
+  },
+  {
+    "id": 518,
+    "name": "Custom",
+    "icon": "custom.png",
+    "damageMultiplier": 1,
+    "tags": ["Custom"],
+    "special": {
+      "isUnique": true,
+      "hasDot": true
+    }
+  }
+]

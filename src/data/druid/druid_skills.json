@@ -1,0 +1,239 @@
+[
+    {
+      "id": 20,
+      "name": "Earth Spike",
+      "icon": "earth_spike.png",
+      "damageMultiplier": 0.17,
+      "tags": ["Basic", "Earth", "Nature", "Physical"]
+    },
+    {
+      "id": 21,
+      "name": "Claw",
+      "icon": "claw.png",
+      "damageMultiplier": 0.22,
+      "tags": ["Basic", "Shapeshifting", "Werewolf", "Physical"]
+    },
+    {
+      "id": 22,
+      "name": "Storm Strike",
+      "icon": "storm_strike.png",
+      "damageMultiplier": 0.2,
+      "tags": ["Basic", "Nature", "Storm", "Lightning"]
+    },
+    {
+      "id": 23,
+      "name": "Wind Shear",
+      "icon": "wind_shear.png",
+      "damageMultiplier": 0.18,
+      "tags": ["Basic", "Nature", "Storm", "Physical"]
+    },
+    {
+      "id": 24,
+      "name": "Maul",
+      "icon": "maul.png",
+      "damageMultiplier": 0.22,
+      "tags": ["Basic", "Shapeshifting", "Werebear", "Physical"]
+    },
+    {
+      "id": 25,
+      "name": "Landslide",
+      "icon": "landslide.png",
+      "damageMultiplier": 0.75,
+      "tags": ["Core", "Nature", "Earth", "Physical"]
+    },
+    {
+      "id": 26,
+      "name": "Pulverize",
+      "icon": "pulverize.png",
+      "damageMultiplier": 0.5,
+      "tags": ["Core", "Shapeshifting", "Werebear", "Physical"]
+    },
+    {
+      "id": 27,
+      "name": "Tornado",
+      "icon": "tornado.png",
+      "damageMultiplier": 0.35,
+      "tags": ["Core", "Nature", "Storm", "Physical"]
+    },
+    {
+      "id": 28,
+      "name": "Lightning Storm",
+      "icon": "lightning_storm.png",
+      "damageMultiplier": 0.4,
+      "tags": ["Core", "Nature", "Storm", "Channeled", "Lightning"]
+    },
+    {
+      "id": 29,
+      "name": "Shred (Total)",
+      "icon": "shred.png",
+      "damageMultiplier": 1.3,
+      "tags": ["Core", "Shapeshifting", "Werewolf", "Physical"]
+    },
+    {
+      "id": 291,
+      "name": "Shred (1st hit)",
+      "icon": "shred.png",
+      "damageMultiplier": 0.25,
+      "tags": ["Core", "Shapeshifting", "Werewolf", "Physical"]
+    },
+    {
+      "id": 292,
+      "name": "Shred (2nd hit)",
+      "icon": "shred.png",
+      "damageMultiplier": 0.35,
+      "tags": ["Core", "Shapeshifting", "Werewolf", "Physical"]
+    },
+    {
+      "id": 293,
+      "name": "Shred (3rd hit)",
+      "icon": "shred.png",
+      "damageMultiplier": 0.7,
+      "tags": ["Core", "Shapeshifting", "Werewolf", "Physical"]
+    },
+    {
+      "id": 211,
+      "name": "Cyclone Armor",
+      "icon": "cyclone_armor.png",
+      "damageMultiplier": 0.3,
+      "tags": ["Defensive", "Nature", "Storm", "Physical"]
+    },
+    {
+      "id": 212,
+      "name": "Trample (Total)",
+      "icon": "trample.png",
+      "damageMultiplier": 1.2,
+      "tags": ["Wrath", "Shapeshifting", "Werebear", "Physical"]
+    },
+    {
+      "id": 2121,
+      "name": "Trample (Hit)",
+      "icon": "trample.png",
+      "damageMultiplier": 0.75,
+      "tags": ["Wrath", "Shapeshifting", "Werebear", "Physical"]
+    },
+    {
+      "id": 2122,
+      "name": "Trample (Terrain Hit)",
+      "icon": "trample.png",
+      "damageMultiplier": 0.45,
+      "tags": ["Wrath", "Shapeshifting", "Werebear", "Physical"]
+    },
+    {
+      "id": 213,
+      "name": "Hurricane (Total)",
+      "icon": "hurricane.png",
+      "damageMultiplier": 1.34,
+      "tags": ["Wrath", "Nature", "Storm", "Physical"]
+    },
+    {
+      "id": 2131,
+      "name": "Hurricane (DoT per Second)",
+      "icon": "hurricane.png",
+      "damageMultiplier": 0.1675,
+      "tags": ["Wrath", "Nature", "Storm", "Physical"]
+    },
+    {
+      "id": 214,
+      "name": "Boulder",
+      "icon": "boulder.png",
+      "damageMultiplier": 0.33,
+      "tags": ["Wrath", "Nature", "Earth", "Physical"]
+    },
+    {
+      "id": 215,
+      "name": "Ravens (Passive)",
+      "icon": "ravens.png",
+      "damageMultiplier": 0.026,
+      "tags": ["Companion", "Physical"]
+    },
+    {
+      "id": 216,
+      "name": "Ravens (Active)",
+      "icon": "ravens.png",
+      "damageMultiplier": 0.2667,
+      "tags": ["Companion", "Physical"]
+    },
+    {
+      "id": 217,
+      "name": "Poison Creeper (Passive)",
+      "icon": "vine_creeper.png",
+      "damageMultiplier": 0.0514,
+      "tags": ["Companion", "Poison"]
+    },
+    {
+      "id": 218,
+      "name": "Poison Creeper (Active)",
+      "icon": "vine_creeper.png",
+      "damageMultiplier": 0.45,
+      "tags": ["Companion", "Poison"]
+    },
+    {
+      "id": 219,
+      "name": "Wolves (Passive)",
+      "icon": "wolves.png",
+      "damageMultiplier": 0.078,
+      "tags": ["Companion", "Physical"]
+    },
+    {
+      "id": 220,
+      "name": "Wolves (Active)",
+      "icon": "wolves.png",
+      "damageMultiplier": 1.1,
+      "tags": ["Companion", "Physical"]
+    },
+    {
+      "id": 221,
+      "name": "Rabies (Total)",
+      "icon": "rabies.png",
+      "damageMultiplier": 1.0402,
+      "tags": ["Wrath", "Shapeshifting", "Werewolf", "Poison"]
+    },
+    {
+      "id": 2211,
+      "name": "Rabies (Hit)",
+      "icon": "rabies.png",
+      "damageMultiplier": 0.28,
+      "tags": ["Wrath", "Shapeshifting", "Werewolf", "Poison"]
+    },
+    {
+      "id": 2212,
+      "name": "Rabies (DoT per Second)",
+      "icon": "rabies.png",
+      "damageMultiplier": 0.1267,
+      "tags": ["Wrath", "Shapeshifting", "Werewolf", "Poison"]
+    },
+    {
+      "id": 222,
+      "name": "Cataclysm",
+      "icon": "cataclysm.png",
+      "damageMultiplier": 0.64,
+      "tags": ["Ultimate", "Nature", "Storm", "Lightning"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 223,
+      "name": "Lacerate",
+      "icon": "lacerate.png",
+      "damageMultiplier": 4.6,
+      "tags": ["Ultimate", "Shapeshifting", "Werewolf", "Physical"],
+      "special": {
+        "isUnique": false,
+        "hasDot": true
+      }
+    },
+    {
+      "id": 224,
+      "name": "Custom",
+      "icon": "custom.png",
+      "damageMultiplier": 1,
+      "tags": ["Custom"],
+      "special": {
+        "isUnique": true,
+        "hasDot": true
+      }
+    }
+  ]
+  

@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>D4UTReborn</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+    <header>
+        <h1>D4UT.net | UBB | Uglier But Better</h1>
+        <nav class="header-menu">
+            <button id="home-button">Home</button>
+            <div class="dropdown">
+                <button class="dropdown-toggle">Profile</button>
+                <div class="dropdown-content">
+                    <button id="save-build-button">Save Build</button>
+                    <button id="profile-button">Load Builds</button>
+                </div>
+            </div>
+            <div class="dropdown">
+                <button class="dropdown-toggle">Select</button>
+                <div class="dropdown-content">
+                    <button id="select-class-button">Class</button>
+                    <button id="select-skill-button">Skill</button>
+                    <button id="select-helmet-button">Helmet</button>
+                    <button id="select-chest-button">Chest</button>
+                    <button id="select-pant-button">Pant</button> <!-- New Button -->
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <main>
+        <div id="prompt-message" style="display:none;">
+            Please select a class by clicking <a href="#" id="select-class-link">here</a>.
+        </div>
+        
+        <aside class="sidebar">
+            <section id="dps-box" class="section">
+                <h2>DPS</h2>
+                <ul id="dps-content">
+                    <!-- DPS content will be dynamically added here -->
+                </ul>
+            </section>
+            <section id="suggestion-box" class="section">
+                <h2>Suggestion</h2>
+                <p>Patreon Only</p>
+            </section>
+        </aside>
+        <div class="main-content">
+            <div id="information" class="section">
+                <!-- Welcome message will be loaded here -->
+            </div>
+            <section id="class-selection" class="section" style="display: none">
+                <h2>Select Class</h2>
+                <div id="classes-container" class="classes-container"></div>
+                <div class="buttons">
+                    <button id="class-confirm" style="display: none">Next</button>
+                </div>
+            </section>
+            <section id="profile-page" class="section" style="display: none">
+                <h2>Your Builds</h2>
+                <div id="builds-container" class="builds-container"></div>
+                <div class="buttons">
+                    <button id="profile-back">Back</button>
+                </div>
+            </section>
+            <section id="skill-selection" class="section" style="display: none">
+                <h2>Select Skill</h2>
+                <div id="skills-container" class="skills-container"></div>
+                <div class="buttons">
+                    <button id="skill-back">Back</button>
+                    <button id="skill-confirm">Next</button>
+                </div>
+            </section>
+            <section id="item-selection" class="section" style="display: none">
+                <h2>Select Item</h2>
+                <div id="items-container" class="items-container"></div>
+                <div class="buttons">
+                    <button id="item-back">Back</button>
+                    <button id="item-confirm">Next</button>
+                </div>
+            </section>
+            <section id="item-details" class="section" style="display: none">
+                <h2>Item Details</h2>
+                <div class="item-details-container">
+                    <div id="item-image-container" class="item-image-container"></div>
+                    <div id="item-info-container" class="item-info-container"></div>
+                </div>
+                <div class="buttons">
+                    <button id="item-details-back">Back</button>
+                    <button id="item-details-confirm">Confirm</button>
+                </div>
+            </section>
+            <section id="affix-selection" class="section" style="display: none">
+                <h2>Pick 3 Affixes</h2>
+                <div id="affix-details-container" class="item-details-container">
+                    <div id="affixes-container" class="affixes-container"></div>
+                </div>
+                <div class="buttons">
+                    <button id="affix-back">Back</button>
+                    <button id="affix-confirm">Next</button>
+                </div>
+            </section>
+        </div>
+        <aside class="sidebar-right">
+            <section id="total-attribute-box" class="section">
+                <h2>Total Attribute</h2>
+                <ul id="total-attribute-content">
+                    <!-- Total Attribute content will be dynamically added here -->
+                </ul>
+            </section>
+            <section id="summary-box" class="section">
+                <h2>Summary</h2>
+                <ul id="summary-content">
+                    <!-- Summary content will be dynamically added here -->
+                </ul>
+            </section>
+        </aside>
+    </main>
+    <script type="module" src="js/main.js"></script>
+    <script type="module" src="js/navigation.js"></script>
+  </body>
+</html>
